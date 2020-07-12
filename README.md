@@ -22,3 +22,5 @@ Examples:
 ![insight-dashboard](./assets/insight-dashboard.png "insight dashboard")
 
 ![insight-view-navigator](./assets/insight-view-navigator.png "insight view navigator")
+
+A few bootstrap UI XD templates ([Bootstrap Xd Resources](https://xdresources.co/resources/bootstrap-4-ui)) are also included in this repository that is inline with a lot of default FICO Xpress Insight VDL UI elements.
